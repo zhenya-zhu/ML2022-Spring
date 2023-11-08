@@ -1,3 +1,4 @@
 **/libriphone/
 .DS_Store
 **/*.ckpt
+**/libriphone.zip
