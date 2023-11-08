@@ -1,0 +1,3 @@
+**/libriphone/
+.DS_Store
+**/*.ckpt
