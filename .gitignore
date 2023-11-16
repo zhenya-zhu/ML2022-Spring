@@ -2,3 +2,9 @@
 .DS_Store
 **/*.ckpt
 **/libriphone.zip
+**/food11/
+**/*.jpg
+**/Dataset/
+**/*.zip
+*.tar.gz
+*.zip
