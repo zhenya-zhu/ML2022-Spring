@@ -6,5 +6,7 @@
 **/*.jpg
 **/Dataset/
 **/*.zip
+**/*.csv
+**/*.tar.gz
 *.tar.gz
 *.zip
