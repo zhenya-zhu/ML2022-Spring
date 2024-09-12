@@ -1,9 +1,19 @@
-**/libriphone/
+## overall
 .DS_Store
-**/libriphone.zip
-**/food11/
-**/*.jpg
-**/Dataset/
-*.ckpt
 *.tar.gz
 *.zip
+**/__pycache__/
+
+## AI
+*.ckpt
+**/Dataset/
+
+## HW02
+**/libriphone/
+**/libriphone.zip
+
+## HW03
+**/food11/
+# **/*.jpg
+
+
